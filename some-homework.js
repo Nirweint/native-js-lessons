@@ -39,8 +39,8 @@
 
 // 7 Заполните массив 10-ю случайными числами от 1 до 10 с помощью цикла
 // let array = []
-// for (let i = 1; i <= 10; i++) {
-// 	array.push(Math.round(Math.random() * 10))
+// for (let i = 0; i < 10; i++) {
+// 	array.push(Math.round(Math.random() * 9) + 1)
 // }
 // console.log(array)
 
